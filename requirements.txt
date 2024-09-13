@@ -1,0 +1,5 @@
+datasets
+PyMuPDF
+transformers==4.22.1
+torch==1.12.1
+tkinter
