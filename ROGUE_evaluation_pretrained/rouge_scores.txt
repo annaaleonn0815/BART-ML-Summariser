@@ -1,0 +1,11 @@
+Average ROUGE-1: 0.3085
+Average ROUGE-2: 0.0722
+Average ROUGE-L: 0.1847
+Average Precision: 0.2635
+Average Recall: 0.1452
+Average F1-Score: 0.1847
+
+
+
+
+
