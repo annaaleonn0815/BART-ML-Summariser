@@ -27,11 +27,12 @@ Ensure you have the following installed:
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Start the application by running the following command: ```python graphical_interface.py```
-3. Select "Load Text File" and navigate to the ```GUI_documents``` folder. Sample research papers are included in the folder.
-4. Select a paper and click "Open".
-5. Adjust the summary length as desired and click the "Generate Summary" button.
-6. Save the generated summary if needed.
+2. Activate your virtual environment.
+3. Start the application by running the following command: ```python graphical_interface.py```
+4. Select "Load Text File" and navigate to the ```GUI_documents``` folder. Sample research papers are included in the folder.
+5. Select a paper and click "Open".
+6. Adjust the summary length as desired and click the "Generate Summary" button.
+7. Save the generated summary if needed.
 
 
 
