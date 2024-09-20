@@ -32,3 +32,7 @@ Ensure you have the following installed:
 4. Select a paper and click "Open".
 5. Adjust the summary length as desired and click the "Generate Summary" button.
 6. Save the generated summary if needed.
+
+
+
+* Please note that there are a couple of files that were unable to upload to Github due to their size; for a the complete code please contact me at al22581@essex.ac.uk *
