@@ -35,4 +35,4 @@ Ensure you have the following installed:
 
 
 
-* Please note that there are a couple of files that were unable to upload to Github due to their size; for a the complete code please contact me at al22581@essex.ac.uk *
+###Please note that there are a couple of files that were unable to upload to Github due to their size; for a the complete code please contact me at al22581@essex.ac.uk 
